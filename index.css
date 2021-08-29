@@ -1,0 +1,11 @@
+img{
+	height: 200px;
+}
+
+#spinner{
+	display: block;
+    margin: 100px auto;
+    font-size: 25px;
+    height: 50px;
+    width: 50px;
+}
